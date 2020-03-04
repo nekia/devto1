@@ -1,0 +1,3 @@
+[submodule "fabric-test"]
+	path = fabric-test
+	url = https://github.com/hyperledger/fabric-test.git
